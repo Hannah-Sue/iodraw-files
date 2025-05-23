@@ -8,7 +8,7 @@
           <mxGeometry x="160" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DxSEyr2iK6GNsMKCrB05-2" value="问卷" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="260" y="270" width="100" height="40" as="geometry" />
+          <mxGeometry x="425" y="60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DxSEyr2iK6GNsMKCrB05-3" value="题目" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="100" y="380" width="100" height="40" as="geometry" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="DxSEyr2iK6GNsMKCrB05-7" value="答卷" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="390" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DxSEyr2iK6GNsMKCrB05-8" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
