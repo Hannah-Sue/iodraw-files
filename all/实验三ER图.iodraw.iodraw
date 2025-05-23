@@ -16,6 +16,9 @@
         <mxCell id="DxSEyr2iK6GNsMKCrB05-5" value="选项" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="520" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="DxSEyr2iK6GNsMKCrB05-7" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="420" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
