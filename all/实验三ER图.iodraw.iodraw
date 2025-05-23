@@ -56,6 +56,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="DxSEyr2iK6GNsMKCrB05-21" value="问卷id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
