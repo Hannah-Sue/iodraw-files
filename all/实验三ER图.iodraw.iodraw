@@ -17,7 +17,7 @@
           <mxGeometry x="160" y="520" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DxSEyr2iK6GNsMKCrB05-7" value="答卷" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="11" y="410" width="100" height="40" as="geometry" />
+          <mxGeometry x="11" y="380" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DxSEyr2iK6GNsMKCrB05-8" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
           <mxGeometry x="-99" y="110" width="100" height="40" as="geometry" />
@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C77XEzZXhELjA6rC5Oxf-24" value="题目id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="270" y="340" width="100" height="40" as="geometry" />
+          <mxGeometry x="270" y="350" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C77XEzZXhELjA6rC5Oxf-25" value="题目类型&lt;div&gt;（多选/单选）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="560" y="470" width="100" height="40" as="geometry" />
