@@ -94,11 +94,20 @@
         <mxCell id="C77XEzZXhELjA6rC5Oxf-10" value="设计" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="230" y="190" width="78" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C77XEzZXhELjA6rC5Oxf-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="C77XEzZXhELjA6rC5Oxf-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DxSEyr2iK6GNsMKCrB05-1" target="C77XEzZXhELjA6rC5Oxf-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="200" as="sourcePoint" />
             <mxPoint x="340" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="C77XEzZXhELjA6rC5Oxf-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="200" as="sourcePoint" />
+            <mxPoint x="340" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C77XEzZXhELjA6rC5Oxf-13" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="C77XEzZXhELjA6rC5Oxf-12">
+          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
