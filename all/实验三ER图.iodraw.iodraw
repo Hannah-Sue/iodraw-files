@@ -292,8 +292,8 @@
             <mxPoint x="10" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C77XEzZXhELjA6rC5Oxf-63" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="250" y="520" width="100" height="40" as="geometry" />
+        <mxCell id="C77XEzZXhELjA6rC5Oxf-63" value="回答详情" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="11" y="590" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
