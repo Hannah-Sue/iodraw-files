@@ -194,7 +194,7 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C77XEzZXhELjA6rC5Oxf-40" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="210" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry y="290" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
