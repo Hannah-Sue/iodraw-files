@@ -283,8 +283,14 @@
             <mxPoint x="360" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C77XEzZXhELjA6rC5Oxf-61" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="230" y="330" width="100" height="40" as="geometry" />
+        <mxCell id="C77XEzZXhELjA6rC5Oxf-61" value="答卷id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C77XEzZXhELjA6rC5Oxf-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="420" as="sourcePoint" />
+            <mxPoint x="360" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
