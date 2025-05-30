@@ -49,7 +49,7 @@
         <mxCell id="DxSEyr2iK6GNsMKCrB05-21" value="问卷id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
           <mxGeometry x="480" y="60" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DxSEyr2iK6GNsMKCrB05-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="DxSEyr2iK6GNsMKCrB05-21" edge="1">
+        <mxCell id="DxSEyr2iK6GNsMKCrB05-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DxSEyr2iK6GNsMKCrB05-21" edge="1" target="DxSEyr2iK6GNsMKCrB05-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="250" as="sourcePoint" />
             <mxPoint x="450" y="230" as="targetPoint" />
@@ -158,12 +158,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="250" as="sourcePoint" />
             <mxPoint x="470" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C77XEzZXhELjA6rC5Oxf-31" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DxSEyr2iK6GNsMKCrB05-3" target="DxSEyr2iK6GNsMKCrB05-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="350" as="sourcePoint" />
-            <mxPoint x="300" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
