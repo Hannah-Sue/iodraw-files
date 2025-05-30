@@ -17,7 +17,7 @@
           <mxGeometry x="160" y="520" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DxSEyr2iK6GNsMKCrB05-7" value="答卷" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="375" y="440" width="100" height="40" as="geometry" />
+          <mxGeometry x="308" y="560" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DxSEyr2iK6GNsMKCrB05-8" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
           <mxGeometry x="-99" y="110" width="100" height="40" as="geometry" />
