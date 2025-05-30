@@ -217,8 +217,8 @@
             <mxPoint x="350" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C77XEzZXhELjA6rC5Oxf-46" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="210" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="C77XEzZXhELjA6rC5Oxf-46" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="409.5" y="480" width="81" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
