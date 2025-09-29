@@ -934,6 +934,9 @@
         <mxCell id="4GOlcWaVmG81xrTB62SB-236" value="RAM→BUS&lt;div&gt;BUS→DR1&lt;/div&gt;&lt;div&gt;(PC)+1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="239" y="920" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4GOlcWaVmG81xrTB62SB-237" value="RAM→BUS&lt;div&gt;BUS→DR1&lt;/div&gt;&lt;div&gt;(PC)+1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="920" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
