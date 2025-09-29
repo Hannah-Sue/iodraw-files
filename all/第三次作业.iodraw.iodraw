@@ -940,7 +940,7 @@
             <mxPoint x="180" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4GOlcWaVmG81xrTB62SB-241" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4GOlcWaVmG81xrTB62SB-241" value="QD(00)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="189" y="960" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
