@@ -502,12 +502,6 @@
         <mxCell id="4GOlcWaVmG81xrTB62SB-131" value="(DR2)→BUS&lt;div&gt;BUS→AR&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="940" y="510" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4GOlcWaVmG81xrTB62SB-132" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="540" as="sourcePoint" />
-            <mxPoint x="960" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
