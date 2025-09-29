@@ -835,7 +835,7 @@
             <mxPoint x="279.12" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4GOlcWaVmG81xrTB62SB-211" value="(SW)→BUS&lt;div&gt;BUS→DR&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4GOlcWaVmG81xrTB62SB-211" value="(SW)→BUS&lt;div&gt;BUS→IR&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="239" y="580" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4GOlcWaVmG81xrTB62SB-212" value="KT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -861,6 +861,9 @@
         </mxCell>
         <mxCell id="4GOlcWaVmG81xrTB62SB-218" value="01H" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GOlcWaVmG81xrTB62SB-219" value="(PC)→AR&lt;div&gt;(PC)+1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="210" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
