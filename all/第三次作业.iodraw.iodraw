@@ -427,7 +427,7 @@
         <mxCell id="4GOlcWaVmG81xrTB62SB-115" value="(PC)→AR&lt;div&gt;(PC)+1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="740" y="370.09" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4GOlcWaVmG81xrTB62SB-116" value="(DR2)→BUS&lt;div&gt;BUS→Rd&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4GOlcWaVmG81xrTB62SB-116" value="RAM→BUS&lt;div&gt;BUS→Rd&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="740" y="440.09" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4GOlcWaVmG81xrTB62SB-117" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="4GOlcWaVmG81xrTB62SB-115">
