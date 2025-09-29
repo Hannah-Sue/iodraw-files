@@ -358,7 +358,7 @@
             <mxPoint x="830.5000305175781" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4GOlcWaVmG81xrTB62SB-101" value="(Rd)→BUS&lt;div&gt;BUS→DR1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4GOlcWaVmG81xrTB62SB-101" value="(Rd)→BUS&lt;div&gt;BUS→DR2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="370.09" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4GOlcWaVmG81xrTB62SB-102" value="(DR1)+1&lt;div&gt;→BUS→Rd&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -389,7 +389,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4GOlcWaVmG81xrTB62SB-107" value="COM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="315" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
