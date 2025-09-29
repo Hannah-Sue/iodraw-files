@@ -736,7 +736,7 @@
             <mxPoint x="1090" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4GOlcWaVmG81xrTB62SB-184" value="RAM→BUS&lt;div&gt;BUS→DR2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4GOlcWaVmG81xrTB62SB-184" value="(DR2)→BUS&lt;div&gt;BUS→PC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1141" y="810" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4GOlcWaVmG81xrTB62SB-185" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="4GOlcWaVmG81xrTB62SB-184">
@@ -754,7 +754,7 @@
         <mxCell id="4GOlcWaVmG81xrTB62SB-188" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4GOlcWaVmG81xrTB62SB-184">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1080" y="830" as="sourcePoint" />
-            <mxPoint x="1130" y="780" as="targetPoint" />
+            <mxPoint x="1181" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
