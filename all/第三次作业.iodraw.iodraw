@@ -620,7 +620,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4GOlcWaVmG81xrTB62SB-160" value="&lt;span style=&quot;background-color: initial;&quot;&gt;(DR1)+(DR2)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;→BUS&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;→Rd&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-250" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="1141" y="580" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
