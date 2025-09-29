@@ -151,7 +151,7 @@
         <mxCell id="4GOlcWaVmG81xrTB62SB-39" value="RAR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="249" y="315" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4GOlcWaVmG81xrTB62SB-41" value="1/2(Rd)→(Rd)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4GOlcWaVmG81xrTB62SB-41" value="2*(Rd)→(Rd)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="138" y="369" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4GOlcWaVmG81xrTB62SB-42" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Rd→BUS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -178,7 +178,7 @@
         <mxCell id="4GOlcWaVmG81xrTB62SB-46" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4GOlcWaVmG81xrTB62SB-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="410" as="sourcePoint" />
-            <mxPoint x="200" y="350" as="targetPoint" />
+            <mxPoint x="178" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
