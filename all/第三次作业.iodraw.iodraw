@@ -457,6 +457,18 @@
         <mxCell id="4GOlcWaVmG81xrTB62SB-121" value="LDI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="750" y="315" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4GOlcWaVmG81xrTB62SB-122" value="(PC)→AR&lt;div&gt;(PC)+1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="380.09" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4GOlcWaVmG81xrTB62SB-123" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="4GOlcWaVmG81xrTB62SB-122">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="350.09" as="sourcePoint" />
+            <mxPoint x="890" y="380.09" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GOlcWaVmG81xrTB62SB-124" value="LDI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
