@@ -688,6 +688,9 @@
             <mxPoint x="1280" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4GOlcWaVmG81xrTB62SB-174" value="RAM→BUS&lt;div&gt;BUS→DR2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="940" y="810" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
