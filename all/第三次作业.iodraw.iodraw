@@ -118,7 +118,7 @@
             <mxPoint x="390" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4GOlcWaVmG81xrTB62SB-32" value="(Rd)→BUS&lt;div&gt;BUS→DR1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4GOlcWaVmG81xrTB62SB-32" value="1/2(Rd)→(Rd)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="239" y="369" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4GOlcWaVmG81xrTB62SB-33" value="(DR1)+1&lt;div&gt;→BUS→Rd&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
