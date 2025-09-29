@@ -31,6 +31,9 @@
         <mxCell id="4GOlcWaVmG81xrTB62SB-6" value="56H" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="250" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4GOlcWaVmG81xrTB62SB-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
