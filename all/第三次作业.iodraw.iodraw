@@ -611,7 +611,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4GOlcWaVmG81xrTB62SB-158" value="(DR2)→BUS&lt;div&gt;BUS→AR&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1050" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="1040" y="650" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
