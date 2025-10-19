@@ -19,6 +19,11 @@
         <mxCell id="BfJ7UdccH6rkSjs5kZiX-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;寄存器初始化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-30" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BfJ7UdccH6rkSjs5kZiX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BfJ7UdccH6rkSjs5kZiX-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BfJ7UdccH6rkSjs5kZiX-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Y2输出一个负脉冲&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-30" y="540" width="120" height="60" as="geometry" />
         </mxCell>
