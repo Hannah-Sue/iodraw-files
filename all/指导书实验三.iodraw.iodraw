@@ -7,8 +7,8 @@
         <mxCell id="EEv9GZ7Ek7P5PBLqyzmy-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="110" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EEv9GZ7Ek7P5PBLqyzmy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="EEv9GZ7Ek7P5PBLqyzmy-1" value="寄存器初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
