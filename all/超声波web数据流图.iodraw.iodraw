@@ -21,14 +21,6 @@
             <mxPoint x="15" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yK_wClEBUd_FGfmho1DD-5" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="140" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="yK_wClEBUd_FGfmho1DD-6" value="Id" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="yK_wClEBUd_FGfmho1DD-5">
-          <mxGeometry width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="15" y="15" as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
