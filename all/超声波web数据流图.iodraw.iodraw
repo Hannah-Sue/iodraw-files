@@ -13,6 +13,9 @@
         <mxCell id="yK_wClEBUd_FGfmho1DD-7" value="解析的数据" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="120" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yK_wClEBUd_FGfmho1DD-8" value="发射器" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="230" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
