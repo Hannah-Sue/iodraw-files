@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZKsIZMjdNVgjNTiwQuGm-1" value="定位和追踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="100" height="40" as="geometry" />
+          <mxGeometry x="100" y="50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZKsIZMjdNVgjNTiwQuGm-2" value="加载数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="240" width="100" height="40" as="geometry" />
+          <mxGeometry x="10" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZKsIZMjdNVgjNTiwQuGm-4" value="设备状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="240" width="100" height="40" as="geometry" />
+          <mxGeometry x="150" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZKsIZMjdNVgjNTiwQuGm-5" value="设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="380" width="100" height="40" as="geometry" />
+          <mxGeometry x="434" y="290" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZKsIZMjdNVgjNTiwQuGm-6" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434" y="380" width="100" height="40" as="geometry" />
