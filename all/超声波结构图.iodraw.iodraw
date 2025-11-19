@@ -26,7 +26,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZKsIZMjdNVgjNTiwQuGm-9" value="权限认证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="490" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKsIZMjdNVgjNTiwQuGm-10" value="设备状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444" y="270" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
