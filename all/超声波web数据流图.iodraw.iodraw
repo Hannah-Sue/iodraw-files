@@ -22,6 +22,9 @@
         <mxCell id="yK_wClEBUd_FGfmho1DD-10" value="在地图上形成轨迹" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="255" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="yK_wClEBUd_FGfmho1DD-12" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
