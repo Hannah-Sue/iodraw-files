@@ -53,7 +53,7 @@
           <mxGeometry x="840" y="640" width="230" height="180" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-27" value="发射器1状态" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="40" y="250" width="80" height="20" as="geometry" />
+          <mxGeometry x="40" y="258" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-42" value="External Links" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="860" y="653" width="170" height="20" as="geometry" />
