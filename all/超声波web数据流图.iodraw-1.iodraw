@@ -43,8 +43,8 @@
         <mxCell id="H9wUGrM02DVA8I0KYZ7J-2" value="web用户" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="50" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="H9wUGrM02DVA8I0KYZ7J-3" value="接收机" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="247" width="80" height="50" as="geometry" />
+        <mxCell id="H9wUGrM02DVA8I0KYZ7J-3" value="数据统计" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="237" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
