@@ -88,14 +88,14 @@
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-12" value="发射器4状态" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
           <mxGeometry x="40" y="348" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1JtYAV4xmt_j6K-a8pgB-13" value="发射器1状态" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+        <mxCell id="1JtYAV4xmt_j6K-a8pgB-13" value="发射器5状态" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
           <mxGeometry x="40" y="383" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-14" value="发射器6状态" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
           <mxGeometry x="140" y="250" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-15" value="发射器7状态" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="140" y="285" width="80" height="20" as="geometry" />
+          <mxGeometry x="140" y="283" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
