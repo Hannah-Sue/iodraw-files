@@ -125,7 +125,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-67" value="Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="35" y="481" width="200" height="200" as="geometry" />
+          <mxGeometry x="35" y="481" width="195" height="319" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
