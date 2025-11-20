@@ -112,6 +112,9 @@
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-20" value="" style="verticalLabelPosition=top;shadow=0;dashed=0;align=center;html=1;verticalAlign=bottom;strokeWidth=1;shape=mxgraph.mockup.misc.pin;fillColor2=#00dd00;fillColor3=#004400;strokeColor=#006600;" vertex="1" parent="1">
           <mxGeometry x="490" y="450" width="20" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="1JtYAV4xmt_j6K-a8pgB-21" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="680" y="370" width="10" height="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
