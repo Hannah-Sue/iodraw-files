@@ -29,7 +29,7 @@
           <mxGeometry x="33" y="246" width="200" height="190" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-9" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="140" width="1060" height="10" as="geometry" />
+          <mxGeometry x="20" y="140" width="1060" height="70" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-27" value="发射器1状态" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="40" y="258" width="80" height="20" as="geometry" />
