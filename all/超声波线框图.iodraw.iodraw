@@ -124,6 +124,9 @@
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-30" value="Help" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="1JtYAV4xmt_j6K-a8pgB-24">
           <mxGeometry x="860" width="200" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="1JtYAV4xmt_j6K-a8pgB-31" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.splitter;strokeColor=#999999;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="560" y="220" width="10" height="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
