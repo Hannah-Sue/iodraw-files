@@ -119,7 +119,7 @@
           <mxGeometry x="860" y="425" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;" vertex="1" parent="1">
-          <mxGeometry x="250" y="230" width="250" height="250" as="geometry" />
+          <mxGeometry x="250" y="230" width="580" height="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
