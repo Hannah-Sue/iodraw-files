@@ -88,6 +88,9 @@
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-10" value="发射器2状态" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="1JtYAV4xmt_j6K-a8pgB-11" value="发射器3状态" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
