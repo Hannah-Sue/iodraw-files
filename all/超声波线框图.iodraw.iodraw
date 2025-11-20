@@ -86,7 +86,7 @@
           <mxGeometry x="850" y="520" width="200" height="122" as="geometry" />
         </mxCell>
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-39" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginTop=32;strokeColor=#666666;gradientColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="180" width="400" height="200" as="geometry" />
+          <mxGeometry x="20" y="131" width="400" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-40" value="Tab 1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" vertex="1" parent="1JtYAV4xmt_j6K-a8pgB-39">
           <mxGeometry width="60" height="25" relative="1" as="geometry">
