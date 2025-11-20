@@ -62,7 +62,7 @@
           <mxGeometry x="860" y="425" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;" vertex="1" parent="1">
-          <mxGeometry x="270" y="230" width="560" height="590" as="geometry" />
+          <mxGeometry x="270" y="230" width="540" height="590" as="geometry" />
         </mxCell>
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-10" value="发射器2状态" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
           <mxGeometry x="40" y="291" width="80" height="20" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="140" y="391" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-19" value="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.misc.ruler2;dx=100;rulerOrient=down;unitSize=10;fontColor=#999999;spacingLeft=96;align=left;verticalAlign=middle;spacingBottom=10;spacingTop=0;spacingRight=0;rotation=-90;spacing=0;strokeColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="517.19" y="510.32" width="585.63" height="30" as="geometry" />
+          <mxGeometry x="496.19000000000005" y="510.32" width="585.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-20" value="" style="verticalLabelPosition=top;shadow=0;dashed=0;align=center;html=1;verticalAlign=bottom;strokeWidth=1;shape=mxgraph.mockup.misc.pin;fillColor2=#00dd00;fillColor3=#004400;strokeColor=#006600;" vertex="1" parent="1">
           <mxGeometry x="490" y="450" width="20" height="50" as="geometry" />
