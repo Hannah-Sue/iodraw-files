@@ -124,7 +124,7 @@
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1JtYAV4xmt_j6K-a8pgB-59" source="1JtYAV4xmt_j6K-a8pgB-61" target="1JtYAV4xmt_j6K-a8pgB-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1JtYAV4xmt_j6K-a8pgB-67" value="绑定鱼类信息" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="1JtYAV4xmt_j6K-a8pgB-67" value="绑定鱼类信息" style="swimlane;startSize=40;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="35.5" y="460" width="195" height="319" as="geometry">
             <mxRectangle x="35.5" y="460" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
