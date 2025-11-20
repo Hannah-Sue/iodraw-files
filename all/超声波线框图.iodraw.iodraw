@@ -62,7 +62,7 @@
           <mxGeometry x="860" y="425" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;" vertex="1" parent="1">
-          <mxGeometry x="270" y="230" width="540" height="590" as="geometry" />
+          <mxGeometry x="290" y="230" width="520" height="590" as="geometry" />
         </mxCell>
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-10" value="发射器2状态" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
           <mxGeometry x="40" y="291" width="80" height="20" as="geometry" />
