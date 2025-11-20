@@ -104,7 +104,7 @@
           <mxGeometry x="140" y="348" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-18" value="发射器2状态" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="80" y="323" width="80" height="20" as="geometry" />
+          <mxGeometry x="140" y="383" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
