@@ -40,6 +40,9 @@
         <mxCell id="yK_wClEBUd_FGfmho1DD-17" value="接收机/发射器参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="240" y="190" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="H9wUGrM02DVA8I0KYZ7J-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
