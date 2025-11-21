@@ -148,12 +148,12 @@
             <mxRectangle width="93" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-63" value="Value 5" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;whiteSpace=wrap;html=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-61">
+        <mxCell id="SnpKeF9Cwk0SYH70kQxR-63" value="Value 5" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#dae8fc;whiteSpace=wrap;html=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-61">
           <mxGeometry x="93" width="94" height="31" as="geometry">
             <mxRectangle width="94" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-64" value="Value 6" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;whiteSpace=wrap;html=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-61">
+        <mxCell id="SnpKeF9Cwk0SYH70kQxR-64" value="Value 6" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#dae8fc;whiteSpace=wrap;html=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-61">
           <mxGeometry x="187" width="93" height="31" as="geometry">
             <mxRectangle width="93" height="31" as="alternateBounds" />
           </mxGeometry>
@@ -184,7 +184,7 @@
             <mxRectangle width="93" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-71" value="Value 11" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;whiteSpace=wrap;html=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-69">
+        <mxCell id="SnpKeF9Cwk0SYH70kQxR-71" value="Value 11" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#dae8fc;whiteSpace=wrap;html=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-69">
           <mxGeometry x="93" width="94" height="31" as="geometry">
             <mxRectangle width="94" height="31" as="alternateBounds" />
           </mxGeometry>
