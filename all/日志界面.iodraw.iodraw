@@ -133,7 +133,7 @@
         <mxCell id="w8FJ-8VIycQpFnSjek_f-3" value="设备状态" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-1">
           <mxGeometry x="90" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w8FJ-8VIycQpFnSjek_f-4" value="日志" style="text;strokeColor=#6c8ebf;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=17;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-1">
+        <mxCell id="w8FJ-8VIycQpFnSjek_f-4" value="日志" style="text;strokeColor=#6c8ebf;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#008cff;fontSize=17;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-1">
           <mxGeometry x="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w8FJ-8VIycQpFnSjek_f-5" value="调试" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-1">
