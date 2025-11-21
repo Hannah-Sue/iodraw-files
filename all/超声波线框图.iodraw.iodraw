@@ -142,6 +142,9 @@
         <mxCell id="-r7Eh4o6k8hN03MctaPe-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;速度曲线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="900" y="450" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VRhgU15GfK7kf5QJQrpy-16" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#2072B8;" vertex="1" parent="1">
+          <mxGeometry x="510" y="90" width="46" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
