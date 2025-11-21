@@ -143,7 +143,7 @@
           <mxGeometry x="900" y="450" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VRhgU15GfK7kf5QJQrpy-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="330" y="110" width="800" height="200" as="geometry" />
+          <mxGeometry x="330" y="70" width="800" height="240" as="geometry" />
         </mxCell>
         <mxCell id="VRhgU15GfK7kf5QJQrpy-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;" vertex="1" parent="VRhgU15GfK7kf5QJQrpy-7">
           <mxGeometry width="800" height="50" relative="1" as="geometry" />
