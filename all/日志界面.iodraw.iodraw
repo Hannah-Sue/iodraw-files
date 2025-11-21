@@ -124,6 +124,30 @@
         <mxCell id="677b7b8949515195-49" value="Feature 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="860" y="425" width="170" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="w8FJ-8VIycQpFnSjek_f-1" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#999999;fillColor=#ffffff;fontColor=#666666;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="110" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8FJ-8VIycQpFnSjek_f-2" value="加载数据" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-1">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8FJ-8VIycQpFnSjek_f-3" value="设备状态" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-1">
+          <mxGeometry x="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8FJ-8VIycQpFnSjek_f-4" value="日志" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-1">
+          <mxGeometry x="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8FJ-8VIycQpFnSjek_f-5" value="调试" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-1">
+          <mxGeometry x="270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8FJ-8VIycQpFnSjek_f-6" value="设置" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-1">
+          <mxGeometry x="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8FJ-8VIycQpFnSjek_f-7" value="帮助" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-1">
+          <mxGeometry x="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w8FJ-8VIycQpFnSjek_f-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="w8FJ-8VIycQpFnSjek_f-1" source="w8FJ-8VIycQpFnSjek_f-3" target="w8FJ-8VIycQpFnSjek_f-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
