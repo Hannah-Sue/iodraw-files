@@ -168,7 +168,7 @@
             <mxPoint x="-60" y="-60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VRhgU15GfK7kf5QJQrpy-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VRhgU15GfK7kf5QJQrpy-15" value="设备状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
