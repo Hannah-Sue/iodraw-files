@@ -142,12 +142,6 @@
         <mxCell id="-r7Eh4o6k8hN03MctaPe-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;速度曲线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="900" y="450" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0EaauDs_u0I3ElXg5Zgy-1" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="210" y="200" width="510" height="418" as="geometry" />
-        </mxCell>
-        <mxCell id="0EaauDs_u0I3ElXg5Zgy-2" value="Group" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="0EaauDs_u0I3ElXg5Zgy-1">
-          <mxGeometry x="5" width="90" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
