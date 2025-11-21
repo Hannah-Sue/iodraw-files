@@ -140,13 +140,13 @@
           <mxGeometry x="150" y="40" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-r7Eh4o6k8hN03MctaPe-7" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="210" width="250" height="40" as="geometry" />
+          <mxGeometry x="280" y="210" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-r7Eh4o6k8hN03MctaPe-8" value="定位模式" style="text;strokeColor=#008CFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fillColor=#008CFF;fontColor=#ffffff;fontSize=17;fontStyle=1;" vertex="1" parent="-r7Eh4o6k8hN03MctaPe-7">
-          <mxGeometry width="125" height="40" as="geometry" />
+          <mxGeometry width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-r7Eh4o6k8hN03MctaPe-11" value="追踪模式" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="-r7Eh4o6k8hN03MctaPe-7">
-          <mxGeometry x="125" width="125" height="40" as="geometry" />
+          <mxGeometry x="105" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
