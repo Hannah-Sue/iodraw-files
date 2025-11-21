@@ -139,6 +139,9 @@
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-79" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;网站名&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="150" y="40" width="200" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-r7Eh4o6k8hN03MctaPe-1" value="ON" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.onOffButton;gradientColor=none;strokeColor=#999999;buttonState=on;fillColor2=#008cff;fontColor=#ffffff;fontSize=17;mainText=;spacingRight=40;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="150" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
