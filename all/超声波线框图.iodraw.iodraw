@@ -10,6 +10,9 @@
         <mxCell id="677b7b8949515195-2" value="LOGO" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="38" y="40" width="92" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="VRhgU15GfK7kf5QJQrpy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VRhgU15GfK7kf5QJQrpy-11" target="VRhgU15GfK7kf5QJQrpy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="677b7b8949515195-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="110" width="220" height="30" as="geometry" />
         </mxCell>
@@ -150,7 +153,7 @@
         </mxCell>
         <mxCell id="VRhgU15GfK7kf5QJQrpy-9" value="Active" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.tabTop;strokeColor=#DFDFDF;fillColor=#ffffff;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#4B5259;" vertex="1" parent="VRhgU15GfK7kf5QJQrpy-7">
           <mxGeometry width="80" height="40" relative="1" as="geometry">
-            <mxPoint x="10" y="10" as="offset" />
+            <mxPoint x="80" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VRhgU15GfK7kf5QJQrpy-11" value="Disabled" style="strokeColor=none;fillColor=none;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;fontColor=#0085FC;fontColor=#4B5259;" vertex="1" parent="VRhgU15GfK7kf5QJQrpy-7">
