@@ -46,7 +46,7 @@
         <mxCell id="JtUMR09sORyii7_YdF7F-6" value="设置" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="JtUMR09sORyii7_YdF7F-1">
           <mxGeometry x="360" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JtUMR09sORyii7_YdF7F-7" value="帮助" style="text;strokeColor=#6c8ebf;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#008cff;fontSize=17;" vertex="1" parent="JtUMR09sORyii7_YdF7F-1">
+        <mxCell id="JtUMR09sORyii7_YdF7F-7" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;帮助&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=#6c8ebf;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#008cff;fontSize=17;" vertex="1" parent="JtUMR09sORyii7_YdF7F-1">
           <mxGeometry x="450" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JtUMR09sORyii7_YdF7F-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="JtUMR09sORyii7_YdF7F-1" source="JtUMR09sORyii7_YdF7F-3" target="JtUMR09sORyii7_YdF7F-3">
