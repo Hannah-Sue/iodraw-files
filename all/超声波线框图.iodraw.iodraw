@@ -148,7 +148,7 @@
             <mxPoint x="404" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-r7Eh4o6k8hN03MctaPe-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-r7Eh4o6k8hN03MctaPe-16" value="点击后打开" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="-110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
