@@ -70,7 +70,7 @@
         <mxCell id="JtUMR09sORyii7_YdF7F-15" value="Cillum ad ut irure tempor velit nostrud occaecat ullamco aliqua anim Lorem sint. Veniam sint duis incididunt do esse magna mollit excepteur laborum qui. Id id reprehenderit sit est eu aliqua occaecat quis et velit excepteur laborum mollit dolore eiusmod. Ipsum dolor in occaecat commodo et voluptate minim reprehenderit mollit pariatur. Deserunt non laborum enim et cillum eu deserunt excepteur ea incididunt minim occaecat." style="strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="300" y="190" width="690" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="JtUMR09sORyii7_YdF7F-16" value="&lt;font color=&quot;#008c9b&quot;&gt;Settings&lt;/font&gt;" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="JtUMR09sORyii7_YdF7F-16" value="&lt;font color=&quot;#008cff&quot;&gt;Settings&lt;/font&gt;" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="60" y="350" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
