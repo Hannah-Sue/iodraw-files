@@ -137,11 +137,6 @@
             <mxPoint x="-24" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-4" value="Modal body text goes here." style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=13;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
-          <mxGeometry width="550" height="40" relative="1" as="geometry">
-            <mxPoint y="60" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SnpKeF9Cwk0SYH70kQxR-5" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
           <mxGeometry width="550" height="10" relative="1" as="geometry">
             <mxPoint y="120" as="offset" />
