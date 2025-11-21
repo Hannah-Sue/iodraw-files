@@ -139,18 +139,6 @@
         <mxCell id="1JtYAV4xmt_j6K-a8pgB-79" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;网站名&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="150" y="40" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-r7Eh4o6k8hN03MctaPe-2" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#666666;fillColor=#ffffff;fontColor=#666666;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="170" width="375" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-r7Eh4o6k8hN03MctaPe-3" value="Button 1" style="text;strokeColor=#008CFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fillColor=#008CFF;fontColor=#ffffff;fontSize=17;fontStyle=1;" vertex="1" parent="-r7Eh4o6k8hN03MctaPe-2">
-          <mxGeometry width="125" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-r7Eh4o6k8hN03MctaPe-4" value="Button 2" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="-r7Eh4o6k8hN03MctaPe-2">
-          <mxGeometry x="125" width="125" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-r7Eh4o6k8hN03MctaPe-5" value="Button 3" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="-r7Eh4o6k8hN03MctaPe-2">
-          <mxGeometry x="250" width="125" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
