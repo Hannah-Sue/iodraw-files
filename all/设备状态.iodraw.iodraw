@@ -124,6 +124,39 @@
         <mxCell id="677b7b8949515195-49" value="Feature 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="860" y="425" width="170" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="SnpKeF9Cwk0SYH70kQxR-1" value="Modal title" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="400" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SnpKeF9Cwk0SYH70kQxR-2" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
+          <mxGeometry width="400" height="10" relative="1" as="geometry">
+            <mxPoint y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnpKeF9Cwk0SYH70kQxR-3" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.x;strokeColor=#868686;strokeWidth=2;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
+          <mxGeometry x="1" width="8" height="8" relative="1" as="geometry">
+            <mxPoint x="-24" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnpKeF9Cwk0SYH70kQxR-4" value="Modal body text goes here." style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=13;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
+          <mxGeometry width="400" height="40" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnpKeF9Cwk0SYH70kQxR-5" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
+          <mxGeometry width="400" height="10" relative="1" as="geometry">
+            <mxPoint y="120" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnpKeF9Cwk0SYH70kQxR-6" value="Save changes" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
+          <mxGeometry x="1" y="1" width="110" height="40" relative="1" as="geometry">
+            <mxPoint x="-130" y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnpKeF9Cwk0SYH70kQxR-7" value="Close" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#6C757D;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
+          <mxGeometry x="1" y="1" width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="-220" y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
