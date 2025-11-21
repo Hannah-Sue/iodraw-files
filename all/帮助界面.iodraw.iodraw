@@ -95,7 +95,7 @@
           <mxGeometry x="120" y="-67" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JtUMR09sORyii7_YdF7F-31" value="Callout" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=NW;callStyle=line;fontSize=17;fontColor=#666666;align=left;verticalAlign=top;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="280" y="50" width="200" height="100" as="geometry" />
+          <mxGeometry x="560" y="-20" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
