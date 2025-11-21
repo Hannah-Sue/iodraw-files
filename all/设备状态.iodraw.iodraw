@@ -152,24 +152,6 @@
             <mxPoint x="-220" y="-60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-44" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
-          <mxGeometry y="120" width="550" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-45" value="Cras justo odio" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-44">
-          <mxGeometry width="550" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-46" value="Dapibus ac facilisis in" style="shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;right=0;left=0;strokeColor=#DFDFDF;fillColor=none;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-44">
-          <mxGeometry y="30" width="550" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-47" value="Morbi leo risus" style="shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;right=0;left=0;strokeColor=#DFDFDF;fillColor=none;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-44">
-          <mxGeometry y="60" width="550" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-48" value="Porta ac consectetur ac" style="shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;right=0;left=0;strokeColor=#DFDFDF;fillColor=none;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fontColor=#000000;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-44">
-          <mxGeometry y="90" width="550" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-49" value="Vestibulum at eros" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.bottomButton;rSize=5;fontColor=#000000;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-44">
-          <mxGeometry y="120" width="550" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="SnpKeF9Cwk0SYH70kQxR-51" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;strokeWidth=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
           <mxGeometry x="3" y="110" width="550" height="10" as="geometry" />
         </mxCell>
