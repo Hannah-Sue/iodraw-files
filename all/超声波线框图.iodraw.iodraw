@@ -145,7 +145,7 @@
         <mxCell id="-r7Eh4o6k8hN03MctaPe-8" value="定位模式" style="text;strokeColor=#008CFF;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.leftButton;rSize=10;fillColor=#008CFF;fontColor=#ffffff;fontSize=17;fontStyle=1;" vertex="1" parent="-r7Eh4o6k8hN03MctaPe-7">
           <mxGeometry width="125" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-r7Eh4o6k8hN03MctaPe-11" value="Button 4" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="-r7Eh4o6k8hN03MctaPe-7">
+        <mxCell id="-r7Eh4o6k8hN03MctaPe-11" value="追踪模式" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.mockup.rightButton;rSize=10;fillColor=inherit;fontColor=inherit;fontSize=17;fontStyle=1;" vertex="1" parent="-r7Eh4o6k8hN03MctaPe-7">
           <mxGeometry x="125" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
