@@ -127,7 +127,7 @@
         <mxCell id="SnpKeF9Cwk0SYH70kQxR-1" value="设备状态" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="550" height="359" as="geometry" />
         </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-2" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
+        <mxCell id="SnpKeF9Cwk0SYH70kQxR-2" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;strokeWidth=5;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
           <mxGeometry width="550" height="10" relative="1" as="geometry">
             <mxPoint y="80" as="offset" />
           </mxGeometry>
