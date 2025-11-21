@@ -174,7 +174,7 @@
             <mxRectangle width="94" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-56" value="Title 3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-53">
+        <mxCell id="SnpKeF9Cwk0SYH70kQxR-56" value="Title 3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#008cff;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-53">
           <mxGeometry x="187" width="93" height="30" as="geometry">
             <mxRectangle width="93" height="30" as="alternateBounds" />
           </mxGeometry>
