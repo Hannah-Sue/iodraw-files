@@ -124,7 +124,7 @@
         <mxCell id="677b7b8949515195-49" value="Feature 6" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="860" y="425" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-1" value="Modal title" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="1">
+        <mxCell id="SnpKeF9Cwk0SYH70kQxR-1" value="设备状态" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="1">
           <mxGeometry x="280" y="141" width="550" height="359" as="geometry" />
         </mxCell>
         <mxCell id="SnpKeF9Cwk0SYH70kQxR-2" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
