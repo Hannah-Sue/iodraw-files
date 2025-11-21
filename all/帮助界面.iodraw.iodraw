@@ -10,12 +10,6 @@
         <mxCell id="677b7b8949515195-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="95" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-4" value="Topic 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="780" y="40" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="677b7b8949515195-6" value="Topic 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="930" y="40" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="677b7b8949515195-7" value="Topic 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="1000" y="40" width="60" height="20" as="geometry" />
         </mxCell>
@@ -93,6 +87,9 @@
         </mxCell>
         <mxCell id="JtUMR09sORyii7_YdF7F-27" value="注册/登录" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
           <mxGeometry x="828" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JtUMR09sORyii7_YdF7F-28" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#2072B8;" vertex="1" parent="1">
+          <mxGeometry x="970" y="35" width="20" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
