@@ -91,6 +91,9 @@
         <mxCell id="JtUMR09sORyii7_YdF7F-24" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;网站名&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008cff;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="31" width="200" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="JtUMR09sORyii7_YdF7F-26" value="LOGO" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="40" width="92" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
