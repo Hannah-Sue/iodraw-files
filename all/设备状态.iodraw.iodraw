@@ -129,7 +129,7 @@
         </mxCell>
         <mxCell id="SnpKeF9Cwk0SYH70kQxR-2" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
           <mxGeometry width="550" height="10" relative="1" as="geometry">
-            <mxPoint y="50" as="offset" />
+            <mxPoint y="80" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SnpKeF9Cwk0SYH70kQxR-3" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.x;strokeColor=#868686;strokeWidth=2;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
@@ -151,9 +151,6 @@
           <mxGeometry x="1" y="1" width="70" height="40" relative="1" as="geometry">
             <mxPoint x="-220" y="-60" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-19" value="Tab 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="430" y="380" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
