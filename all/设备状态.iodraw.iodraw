@@ -40,9 +40,6 @@
         <mxCell id="677b7b8949515195-14" value="Section 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="770" y="175" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-26" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
-          <mxGeometry x="840" y="640" width="230" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="677b7b8949515195-27" value="Section 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="40" y="250" width="170" height="20" as="geometry" />
         </mxCell>
@@ -51,9 +48,6 @@
         </mxCell>
         <mxCell id="677b7b8949515195-29" value="Section 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="40" y="321" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="677b7b8949515195-30" value="Section 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="40" y="357" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-31" value="Section 7" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="40" y="464" width="170" height="20" as="geometry" />
@@ -88,9 +82,6 @@
         <mxCell id="677b7b8949515195-41" value="Section 15" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="40" y="750" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-42" value="External Links" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="860" y="653" width="170" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="SnpKeF9Cwk0SYH70kQxR-1" value="设备状态" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="1">
           <mxGeometry x="286" y="140" width="560" height="359" as="geometry" />
         </mxCell>
@@ -102,11 +93,6 @@
         <mxCell id="SnpKeF9Cwk0SYH70kQxR-3" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.x;strokeColor=#868686;strokeWidth=2;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
           <mxGeometry x="1" width="8" height="8" relative="1" as="geometry">
             <mxPoint x="-24" y="20" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-5" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
-          <mxGeometry width="550" height="300" relative="1" as="geometry">
-            <mxPoint y="120" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SnpKeF9Cwk0SYH70kQxR-22" value="接收机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" vertex="1" parent="1">
