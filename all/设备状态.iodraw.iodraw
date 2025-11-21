@@ -142,11 +142,6 @@
             <mxPoint y="120" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-6" value="Save changes" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="SnpKeF9Cwk0SYH70kQxR-1">
-          <mxGeometry x="1" y="1" width="110" height="40" relative="1" as="geometry">
-            <mxPoint x="-130" y="-60" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SnpKeF9Cwk0SYH70kQxR-22" value="接收机" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.uRect;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="296" y="193" width="70" height="30" as="geometry" />
         </mxCell>
@@ -245,6 +240,9 @@
           <mxGeometry x="187" width="93" height="31" as="geometry">
             <mxRectangle width="93" height="31" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SnpKeF9Cwk0SYH70kQxR-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SnpKeF9Cwk0SYH70kQxR-5" target="SnpKeF9Cwk0SYH70kQxR-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
