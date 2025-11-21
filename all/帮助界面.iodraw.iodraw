@@ -67,7 +67,7 @@
         <mxCell id="JtUMR09sORyii7_YdF7F-14" value="Q&amp;amp;A" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#dae8fc;fontSize=14;" vertex="1" parent="JtUMR09sORyii7_YdF7F-10">
           <mxGeometry y="120" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JtUMR09sORyii7_YdF7F-15" value="" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=14;rounded=1;arcSize=2;fillColor=#c8c8c8;fontColor=#333333;strokeColor=#c8c8c8;" vertex="1" parent="1">
+        <mxCell id="JtUMR09sORyii7_YdF7F-15" value="" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=14;rounded=1;arcSize=2;fillColor=#c8c8c8;fontColor=#333333;strokeColor=#c8c8c8;glass=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="190" width="690" height="590" as="geometry" />
         </mxCell>
         <mxCell id="JtUMR09sORyii7_YdF7F-16" value="问题反馈" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#dae8fc;fontSize=14;" vertex="1" parent="1">
