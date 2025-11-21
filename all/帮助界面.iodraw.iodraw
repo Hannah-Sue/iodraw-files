@@ -89,7 +89,10 @@
           <mxGeometry x="320" y="600" width="610" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JtUMR09sORyii7_YdF7F-24" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;网站名&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008cff;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="200" y="30" width="200" height="50" as="geometry" />
+          <mxGeometry x="200" y="31" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JtUMR09sORyii7_YdF7F-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pic.616pic.com/ys_img/00/19/47/RwAwuwZzmM.jpg;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="260" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
