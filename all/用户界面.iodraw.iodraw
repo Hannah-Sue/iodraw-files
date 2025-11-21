@@ -1,0 +1,63 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="uepvIvG4BL5E9TuyWgKb">
+    <mxGraphModel dx="1042" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-11" value="Email" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-20" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-12" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-13" value="Password" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-20" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-14" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="415" y="10" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-15" value="Address" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" vertex="1" parent="1">
+          <mxGeometry x="10" y="50" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-16" value="1234 Main St" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="10" y="80" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-17" value="Address 2" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-18" value="Apartment, studio or floor" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="10" y="150" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-19" value="City" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-20" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="10" y="220" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-21" value="State" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" vertex="1" parent="1">
+          <mxGeometry x="420" y="190" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-22" value="Choose..." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="420" y="220" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-23" value="" style="shape=triangle;direction=south;fillColor=#212529;strokeColor=none;perimeter=none;" vertex="1" parent="eGbmAg8WEE96cuKVTJm4-22">
+          <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="-17" y="-2.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-24" value="Zip" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" vertex="1" parent="1">
+          <mxGeometry x="710" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-25" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="710" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-26" value="Check me out" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;strokeColor=#999999;fontColor=#212529;checkedFill=#0085FC;checkedStroke=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="10" y="270" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eGbmAg8WEE96cuKVTJm4-27" value="Sign in" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
