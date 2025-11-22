@@ -56,7 +56,7 @@
           <mxGeometry x="190" y="160" width="800" height="570" as="geometry" />
         </mxCell>
         <mxCell id="w8FJ-8VIycQpFnSjek_f-10" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-9">
-          <mxGeometry width="720" height="10" relative="1" as="geometry">
+          <mxGeometry width="800" height="10" relative="1" as="geometry">
             <mxPoint y="90" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -101,6 +101,9 @@
         </mxCell>
         <mxCell id="w8FJ-8VIycQpFnSjek_f-25" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); margin: 0px !important;&quot;&gt;2025-11-18 14:23:05       信息         发射器#3                      坐标已更新&lt;/pre&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E0F0D6;fontColor=#59B958;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-9">
           <mxGeometry y="260" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w8FJ-8VIycQpFnSjek_f-26" value="Dark" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#343A40;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
