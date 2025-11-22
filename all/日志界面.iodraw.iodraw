@@ -119,7 +119,7 @@
         <mxCell id="w8FJ-8VIycQpFnSjek_f-32" value="" style="text;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=inherit;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-31">
           <mxGeometry width="170" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="w8FJ-8VIycQpFnSjek_f-33" value="Action" style="text;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=inherit;fontSize=14;fontStyle=0;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-31">
+        <mxCell id="w8FJ-8VIycQpFnSjek_f-33" value="信息" style="text;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=inherit;fontSize=14;fontStyle=0;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-31">
           <mxGeometry y="10" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w8FJ-8VIycQpFnSjek_f-34" value="Another Action" style="text;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=inherit;fontSize=14;fontStyle=0;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-31">
