@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w8FJ-8VIycQpFnSjek_f-9" value="Modal title" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="1">
-          <mxGeometry x="350" y="30" width="400" height="510" as="geometry" />
+          <mxGeometry x="320" y="190" width="400" height="510" as="geometry" />
         </mxCell>
         <mxCell id="w8FJ-8VIycQpFnSjek_f-10" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-9">
           <mxGeometry width="400" height="10" relative="1" as="geometry">
@@ -63,11 +63,6 @@
         <mxCell id="w8FJ-8VIycQpFnSjek_f-11" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.x;strokeColor=#868686;strokeWidth=2;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-9">
           <mxGeometry x="1" width="8" height="8" relative="1" as="geometry">
             <mxPoint x="-24" y="20" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w8FJ-8VIycQpFnSjek_f-12" value="Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;br&gt;&lt;br&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.&lt;br&gt;&lt;br&gt;Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.&lt;br&gt;&lt;br&gt;Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;br&gt;&lt;br&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor." style="strokeColor=none;fillColor=none;resizeWidth=1;align=left;verticalAlign=top;spacing=10;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-9">
-          <mxGeometry width="400" height="350" relative="1" as="geometry">
-            <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w8FJ-8VIycQpFnSjek_f-13" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-9">
