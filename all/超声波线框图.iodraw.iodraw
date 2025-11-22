@@ -28,30 +28,6 @@
         <mxCell id="dxs2Aac-D5olRMFBusd_-9" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="140" width="1060" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-10" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#999999;fillColor=#ffffff;fontColor=#666666;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="95" width="540" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-11" value="加载数据" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-10">
-          <mxGeometry width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-12" value="设备状态" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-10">
-          <mxGeometry x="90" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-13" value="日志" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=17;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-10">
-          <mxGeometry x="180" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-14" value="调试" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-10">
-          <mxGeometry x="270" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-15" value="&lt;font color=&quot;#ffffff&quot;&gt;设置&lt;/font&gt;" style="text;strokeColor=#6c8ebf;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#008cff;fontSize=17;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-10">
-          <mxGeometry x="360" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-16" value="帮助" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-10">
-          <mxGeometry x="450" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dxs2Aac-D5olRMFBusd_-10" source="dxs2Aac-D5olRMFBusd_-12" target="dxs2Aac-D5olRMFBusd_-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
