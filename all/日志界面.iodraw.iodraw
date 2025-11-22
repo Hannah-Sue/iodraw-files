@@ -81,7 +81,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w8FJ-8VIycQpFnSjek_f-16" value="A simple secondary alert!" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D6D8DB;strokeWidth=1;fillColor=#E2E3E5;fontColor=#383D41;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-9">
-          <mxGeometry x="20" y="140" width="660" height="40" as="geometry" />
+          <mxGeometry x="20" y="180" width="660" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w8FJ-8VIycQpFnSjek_f-17" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="720" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
