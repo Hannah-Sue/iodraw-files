@@ -37,7 +37,7 @@
         <mxCell id="dxs2Aac-D5olRMFBusd_-12" value="设备状态" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-10">
           <mxGeometry x="90" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-13" value="日志" style="text;strokeColor=#6c8ebf;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=17;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-10">
+        <mxCell id="dxs2Aac-D5olRMFBusd_-13" value="日志" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=17;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-10">
           <mxGeometry x="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dxs2Aac-D5olRMFBusd_-14" value="调试" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=inherit;fontSize=17;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-10">
