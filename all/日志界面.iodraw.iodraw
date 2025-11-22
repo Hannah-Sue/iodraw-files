@@ -106,7 +106,7 @@
           <mxGeometry x="30" y="43" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w8FJ-8VIycQpFnSjek_f-29" value="Dropdown button" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingLeft=10;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-9">
-          <mxGeometry x="490" y="40" width="140" height="40" as="geometry" />
+          <mxGeometry x="490" y="43" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w8FJ-8VIycQpFnSjek_f-30" value="" style="shape=triangle;direction=south;fillColor=#ffffff;strokeColor=none;perimeter=none;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-29">
           <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
