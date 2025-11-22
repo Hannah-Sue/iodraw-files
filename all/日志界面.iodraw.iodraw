@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w8FJ-8VIycQpFnSjek_f-9" value="系统日志" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="1">
-          <mxGeometry x="190" y="160" width="800" height="570" as="geometry" />
+          <mxGeometry x="180" y="160" width="800" height="570" as="geometry" />
         </mxCell>
         <mxCell id="w8FJ-8VIycQpFnSjek_f-10" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-9">
           <mxGeometry width="800" height="10" relative="1" as="geometry">
@@ -103,7 +103,7 @@
           <mxGeometry y="260" width="800" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w8FJ-8VIycQpFnSjek_f-28" value="清除" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-9">
-          <mxGeometry x="30" y="43" width="80" height="40" as="geometry" />
+          <mxGeometry x="20" y="38" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w8FJ-8VIycQpFnSjek_f-29" value="筛选" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingLeft=10;" vertex="1" parent="w8FJ-8VIycQpFnSjek_f-9">
           <mxGeometry x="490" y="43" width="140" height="40" as="geometry" />
