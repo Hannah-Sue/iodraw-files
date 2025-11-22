@@ -52,35 +52,6 @@
         <mxCell id="dxs2Aac-D5olRMFBusd_-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dxs2Aac-D5olRMFBusd_-43" source="dxs2Aac-D5olRMFBusd_-45" target="dxs2Aac-D5olRMFBusd_-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-51" value="设置" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" vertex="1" parent="1">
-          <mxGeometry x="60" y="160" width="990" height="630" as="geometry" />
-        </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-52" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-51">
-          <mxGeometry width="990" height="10" relative="1" as="geometry">
-            <mxPoint y="50" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-53" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.x;strokeColor=#868686;strokeWidth=2;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-51">
-          <mxGeometry x="1" width="8" height="8" relative="1" as="geometry">
-            <mxPoint x="-24" y="20" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-56" value="Save changes" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-51">
-          <mxGeometry x="1" y="1" width="110" height="40" relative="1" as="geometry">
-            <mxPoint x="-130" y="-60" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-57" value="Close" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#6C757D;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-51">
-          <mxGeometry x="1" y="1" width="70" height="40" relative="1" as="geometry">
-            <mxPoint x="-220" y="-60" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-51">
-          <mxGeometry x="20" y="73" width="150" height="477" as="geometry" />
-        </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-51">
-          <mxGeometry x="190" y="73" width="780" height="477" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
