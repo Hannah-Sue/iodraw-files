@@ -134,9 +134,6 @@
         <mxCell id="dxs2Aac-D5olRMFBusd_-41" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-18">
           <mxGeometry x="210" y="48" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-42" value="模态窗口，打开时主界面变暗且不可操作" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=NW;callStyle=line;fontSize=17;fontColor=#666666;align=left;verticalAlign=top;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="40" y="470" width="200" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
