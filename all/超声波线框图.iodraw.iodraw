@@ -65,11 +65,6 @@
             <mxPoint x="-24" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-55" value="" style="shape=line;strokeColor=#dddddd;resizeWidth=1;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-51">
-          <mxGeometry width="1014.75" height="10" relative="1" as="geometry">
-            <mxPoint y="420" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dxs2Aac-D5olRMFBusd_-56" value="Save changes" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-51">
           <mxGeometry x="1" y="1" width="110" height="40" relative="1" as="geometry">
             <mxPoint x="-130" y="-60" as="offset" />
