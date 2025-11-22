@@ -128,9 +128,6 @@
             <mxRectangle width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SnpKeF9Cwk0SYH70kQxR-74" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="490" y="510" width="284" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="SnpKeF9Cwk0SYH70kQxR-78" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=none;fillColor=#A7C942;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="234" width="274" height="156" as="geometry" />
         </mxCell>
