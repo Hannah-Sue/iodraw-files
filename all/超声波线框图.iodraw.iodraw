@@ -78,8 +78,8 @@
         <mxCell id="dxs2Aac-D5olRMFBusd_-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-51">
           <mxGeometry x="20" y="73" width="150" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="dxs2Aac-D5olRMFBusd_-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="dxs2Aac-D5olRMFBusd_-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dxs2Aac-D5olRMFBusd_-51">
+          <mxGeometry x="190" y="73" width="780" height="477" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
