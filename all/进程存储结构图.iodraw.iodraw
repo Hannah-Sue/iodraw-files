@@ -13,7 +13,7 @@
         <mxCell id="AaIRqeEVQbq_Y71OWeVP-6" value="Group 2" style="text;spacing=0;strokeColor=inherit;align=center;verticalAlign=middle;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontStyle=1;fontColor=#666666;fontSize=17;" vertex="1" parent="AaIRqeEVQbq_Y71OWeVP-4">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="AaIRqeEVQbq_Y71OWeVP-9" value="代码共享" style="text;spacing=0;strokeColor=inherit;align=center;verticalAlign=middle;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontStyle=1;fontColor=#666666;fontSize=17;" vertex="1" parent="AaIRqeEVQbq_Y71OWeVP-4">
+        <mxCell id="AaIRqeEVQbq_Y71OWeVP-9" value="代码共享映射区" style="text;spacing=0;strokeColor=inherit;align=center;verticalAlign=middle;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=inherit;fontStyle=1;fontColor=#666666;fontSize=17;" vertex="1" parent="AaIRqeEVQbq_Y71OWeVP-4">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
