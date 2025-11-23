@@ -37,10 +37,10 @@
         <mxCell id="AaIRqeEVQbq_Y71OWeVP-17" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px 16px 16px 0px; color: rgb(15, 17, 21); text-align: start; margin: 0px !important;&quot;&gt;映射到相同的物理内存(*x)&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="240" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AaIRqeEVQbq_Y71OWeVP-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AaIRqeEVQbq_Y71OWeVP-9" target="AaIRqeEVQbq_Y71OWeVP-17">
+        <mxCell id="AaIRqeEVQbq_Y71OWeVP-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AaIRqeEVQbq_Y71OWeVP-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="200" as="sourcePoint" />
-            <mxPoint x="590" y="150" as="targetPoint" />
+            <mxPoint x="570" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
