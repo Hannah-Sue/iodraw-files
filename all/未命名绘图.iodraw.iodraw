@@ -83,7 +83,10 @@
           <mxGeometry x="460" y="400" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7AjqYaQ-niHYenqalL1-32" value="“扩展”" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="357" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b7AjqYaQ-niHYenqalL1-33" value="下载图像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
