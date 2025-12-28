@@ -58,7 +58,7 @@
         <mxCell id="b7AjqYaQ-niHYenqalL1-20" value="设置生成参数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="300" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b7AjqYaQ-niHYenqalL1-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="b7AjqYaQ-niHYenqalL1-5">
+        <mxCell id="b7AjqYaQ-niHYenqalL1-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="b7AjqYaQ-niHYenqalL1-20" target="b7AjqYaQ-niHYenqalL1-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="410" as="sourcePoint" />
             <mxPoint x="560" y="360" as="targetPoint" />
