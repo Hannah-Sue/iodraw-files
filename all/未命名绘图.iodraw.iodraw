@@ -55,7 +55,7 @@
         <mxCell id="b7AjqYaQ-niHYenqalL1-18" value="搜索/筛选&lt;div&gt;历史&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="380" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b7AjqYaQ-niHYenqalL1-20" value="调用AI模型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b7AjqYaQ-niHYenqalL1-20" value="设置生成参数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="300" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
