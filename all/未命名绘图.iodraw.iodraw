@@ -22,10 +22,16 @@
         <mxCell id="b7AjqYaQ-niHYenqalL1-8" value="保存记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="260" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b7AjqYaQ-niHYenqalL1-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="b7AjqYaQ-niHYenqalL1-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="b7AjqYaQ-niHYenqalL1-5" target="b7AjqYaQ-niHYenqalL1-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="354.29" as="sourcePoint" />
             <mxPoint x="440" y="290.0042857142857" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7AjqYaQ-niHYenqalL1-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="b7AjqYaQ-niHYenqalL1-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="410" as="sourcePoint" />
+            <mxPoint x="560" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
