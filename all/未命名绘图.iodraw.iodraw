@@ -19,8 +19,8 @@
         <mxCell id="b7AjqYaQ-niHYenqalL1-7" value="调用AI模型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="220" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b7AjqYaQ-niHYenqalL1-8" value="生成图像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="250" width="80" height="30" as="geometry" />
+        <mxCell id="b7AjqYaQ-niHYenqalL1-8" value="保存记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="260" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
