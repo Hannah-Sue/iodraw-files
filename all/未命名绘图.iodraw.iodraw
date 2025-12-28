@@ -41,10 +41,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b7AjqYaQ-niHYenqalL1-13" value="“使用”" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="390" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7AjqYaQ-niHYenqalL1-14" value="“使用”" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7AjqYaQ-niHYenqalL1-15" value="“使用”" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="260" width="60" height="30" as="geometry" />
@@ -57,6 +57,12 @@
         </mxCell>
         <mxCell id="b7AjqYaQ-niHYenqalL1-20" value="设置生成参数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b7AjqYaQ-niHYenqalL1-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="410" as="sourcePoint" />
+            <mxPoint x="560" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
