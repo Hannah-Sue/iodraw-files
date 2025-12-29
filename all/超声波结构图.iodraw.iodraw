@@ -23,7 +23,7 @@
         <mxCell id="o6GdAM0iPMF-auH0SQ0D-17" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="25" y="252" width="90" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="o6GdAM0iPMF-auH0SQ0D-18" value="D1 用户信息表" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="o6GdAM0iPMF-auH0SQ0D-18" value="用户信息表" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="252" width="90" height="28" as="geometry" />
         </mxCell>
         <mxCell id="o6GdAM0iPMF-auH0SQ0D-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="o6GdAM0iPMF-auH0SQ0D-18" target="o6GdAM0iPMF-auH0SQ0D-12">
@@ -112,8 +112,8 @@
             <mxPoint x="550" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6GdAM0iPMF-auH0SQ0D-38" value="D1 用户信息表" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="310" y="262" width="90" height="28" as="geometry" />
+        <mxCell id="o6GdAM0iPMF-auH0SQ0D-38" value="风格配置表" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="252" width="90" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
