@@ -207,8 +207,8 @@
         </mxCell>
         <mxCell id="o6GdAM0iPMF-auH0SQ0D-58" value="图像访&lt;div&gt;问URL&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.5" y="30" width="60" relative="1" as="geometry">
-            <mxPoint x="679" y="470" as="sourcePoint" />
-            <mxPoint x="679" y="430" as="targetPoint" />
+            <mxPoint x="674" y="461" as="sourcePoint" />
+            <mxPoint x="674" y="421" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
