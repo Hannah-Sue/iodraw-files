@@ -97,6 +97,12 @@
             <mxPoint x="13" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="o6GdAM0iPMF-auH0SQ0D-34" value="生成请求、&lt;div&gt;prompt&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="53" y="240" as="sourcePoint" />
+            <mxPoint x="23" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
