@@ -20,10 +20,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o6GdAM0iPMF-auH0SQ0D-17" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="210" y="252" width="90" height="50" as="geometry" />
+          <mxGeometry x="210" y="252" width="90" height="28" as="geometry" />
         </mxCell>
         <mxCell id="o6GdAM0iPMF-auH0SQ0D-18" value="D1 用户信息表" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="252" width="90" height="50" as="geometry" />
+          <mxGeometry x="400" y="252" width="90" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
