@@ -9,18 +9,18 @@
         </mxCell>
         <mxCell id="o6GdAM0iPMF-auH0SQ0D-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="259" y="250" as="sourcePoint" />
-            <mxPoint x="344" y="140" as="targetPoint" />
+            <mxPoint x="75" y="250" as="sourcePoint" />
+            <mxPoint x="160" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o6GdAM0iPMF-auH0SQ0D-14" value="登录请求" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0.347;entryY=1.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="255" y="235" as="sourcePoint" />
-            <mxPoint x="326.23" y="147.79999999999995" as="targetPoint" />
+            <mxPoint x="71" y="235" as="sourcePoint" />
+            <mxPoint x="142.23000000000002" y="147.79999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o6GdAM0iPMF-auH0SQ0D-17" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="209" y="252" width="90" height="28" as="geometry" />
+          <mxGeometry x="25" y="252" width="90" height="28" as="geometry" />
         </mxCell>
         <mxCell id="o6GdAM0iPMF-auH0SQ0D-18" value="D1 用户信息表" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="390" y="252" width="90" height="28" as="geometry" />
