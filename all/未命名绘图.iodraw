@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="akhmSvCDBXnqessfi8A3-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="60" width="40" height="60" as="geometry" />
+        <mxCell id="akhmSvCDBXnqessfi8A3-1" value="豆&lt;br&gt;包&lt;br&gt;-&lt;br&gt;图&lt;br&gt;像&lt;br&gt;生&lt;br&gt;成&lt;br&gt;系&lt;br&gt;统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="60" width="40" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
