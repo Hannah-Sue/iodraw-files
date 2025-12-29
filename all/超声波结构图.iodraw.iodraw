@@ -31,10 +31,10 @@
             <mxPoint x="510" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6GdAM0iPMF-auH0SQ0D-21" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o6GdAM0iPMF-auH0SQ0D-12" target="o6GdAM0iPMF-auH0SQ0D-18">
+        <mxCell id="o6GdAM0iPMF-auH0SQ0D-21" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="450" y="200" as="sourcePoint" />
-            <mxPoint x="510" y="200" as="targetPoint" />
+            <mxPoint x="356.5" y="140" as="sourcePoint" />
+            <mxPoint x="446.5" y="252" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
