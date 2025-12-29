@@ -191,7 +191,7 @@
             <mxPoint x="820" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6GdAM0iPMF-auH0SQ0D-54" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="o6GdAM0iPMF-auH0SQ0D-54" value="处理后图像&lt;div&gt;的二进制数据&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="700" y="530" as="sourcePoint" />
             <mxPoint x="700" y="570" as="targetPoint" />
