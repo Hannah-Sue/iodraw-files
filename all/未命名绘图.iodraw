@@ -118,6 +118,9 @@
         <mxCell id="akhmSvCDBXnqessfi8A3-41" value="模&lt;div&gt;版&lt;/div&gt;&lt;div&gt;浏&lt;/div&gt;&lt;div&gt;览&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="570" width="30" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="akhmSvCDBXnqessfi8A3-42" value="模&lt;div&gt;版&lt;/div&gt;&lt;div&gt;收&lt;/div&gt;&lt;div&gt;藏&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="570" width="30" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
