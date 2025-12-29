@@ -75,7 +75,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6GdAM0iPMF-auH0SQ0D-30" value="获取用户&lt;div&gt;认证信息&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="o6GdAM0iPMF-auH0SQ0D-30" value="获取图像&lt;div&gt;生成请求&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-80" y="80" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
