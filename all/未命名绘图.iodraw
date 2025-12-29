@@ -229,6 +229,9 @@
         <mxCell id="akhmSvCDBXnqessfi8A3-76" value="在&lt;div&gt;线&lt;/div&gt;&lt;div&gt;客&lt;/div&gt;&lt;div&gt;服&lt;/div&gt;&lt;div&gt;联&lt;/div&gt;&lt;div&gt;系&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="570" width="30" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="akhmSvCDBXnqessfi8A3-80" value="查&lt;div&gt;看&lt;/div&gt;&lt;div&gt;余&lt;/div&gt;&lt;div&gt;额&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="630" width="30" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
