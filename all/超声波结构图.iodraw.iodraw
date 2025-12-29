@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="bjLsIDsNnC-maHFLh9mc">
-    <mxGraphModel dx="560" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="735" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,10 +68,11 @@
             <mxPoint x="450" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6GdAM0iPMF-auH0SQ0D-29" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="60" relative="1" as="geometry">
+        <mxCell id="o6GdAM0iPMF-auH0SQ0D-29" value="登录请求、&lt;div&gt;用户信息&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0057" width="60" relative="1" as="geometry">
             <mxPoint x="210" y="65" as="sourcePoint" />
             <mxPoint x="340" y="25" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
