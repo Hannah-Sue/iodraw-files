@@ -199,7 +199,7 @@
         <mxCell id="akhmSvCDBXnqessfi8A3-69" value="充&lt;div&gt;值&lt;/div&gt;&lt;div&gt;套&lt;/div&gt;&lt;div&gt;餐&lt;/div&gt;&lt;div&gt;选&lt;/div&gt;&lt;div&gt;购&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="570" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="akhmSvCDBXnqessfi8A3-70" value="支&lt;div&gt;付&lt;/div&gt;&lt;div&gt;流&lt;/div&gt;&lt;div&gt;程&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="akhmSvCDBXnqessfi8A3-70" value="消&lt;div&gt;费&lt;/div&gt;&lt;div&gt;记&lt;/div&gt;&lt;div&gt;录&lt;/div&gt;&lt;div&gt;查&lt;div&gt;询&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="570" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
