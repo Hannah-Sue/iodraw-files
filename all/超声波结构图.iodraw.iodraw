@@ -76,10 +76,11 @@
             <mxPoint x="700" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6GdAM0iPMF-auH0SQ0D-1" value="Interface1, Interface2..." style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=0;startSize=8;endArrow=none;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-1" y="3" relative="1" as="geometry">
-            <mxPoint x="490" y="150" as="sourcePoint" />
-            <mxPoint x="640" y="90" as="targetPoint" />
+        <mxCell id="o6GdAM0iPMF-auH0SQ0D-2" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" y="51" width="60" relative="1" as="geometry">
+            <mxPoint x="720" y="290" as="sourcePoint" />
+            <mxPoint x="780" y="290" as="targetPoint" />
+            <mxPoint x="-50" y="41" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
