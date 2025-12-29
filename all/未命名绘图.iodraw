@@ -133,8 +133,8 @@
         <mxCell id="akhmSvCDBXnqessfi8A3-43" value="一&lt;div&gt;键&lt;/div&gt;&lt;div&gt;应&lt;/div&gt;&lt;div&gt;用&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="570" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="akhmSvCDBXnqessfi8A3-47" value="历&lt;div&gt;史&lt;/div&gt;&lt;div&gt;作&lt;/div&gt;&lt;div&gt;品&lt;/div&gt;&lt;div&gt;查&lt;/div&gt;&lt;div&gt;看&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="510" width="30" height="130" as="geometry" />
+        <mxCell id="akhmSvCDBXnqessfi8A3-47" value="文&lt;div&gt;本&lt;/div&gt;&lt;div&gt;描&lt;/div&gt;&lt;div&gt;述&lt;/div&gt;&lt;div&gt;输&lt;/div&gt;&lt;div&gt;入&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
