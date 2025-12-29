@@ -112,6 +112,9 @@
             <mxPoint x="550" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="o6GdAM0iPMF-auH0SQ0D-38" value="D1 用户信息表" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="262" width="90" height="28" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
