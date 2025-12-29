@@ -165,7 +165,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6GdAM0iPMF-auH0SQ0D-49" value="外部AI模型服务" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="o6GdAM0iPMF-auH0SQ0D-49" value="图像后处理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="640" y="480" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
