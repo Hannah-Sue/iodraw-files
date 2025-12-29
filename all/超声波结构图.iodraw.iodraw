@@ -15,8 +15,8 @@
         </mxCell>
         <mxCell id="o6GdAM0iPMF-auH0SQ0D-14" value="登录请求" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0.347;entryY=1.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="259" y="230" as="sourcePoint" />
-            <mxPoint x="330.23" y="142.79999999999995" as="targetPoint" />
+            <mxPoint x="256" y="235" as="sourcePoint" />
+            <mxPoint x="327.23" y="147.79999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o6GdAM0iPMF-auH0SQ0D-17" value="用户" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -35,6 +35,12 @@
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="367" y="154" as="sourcePoint" />
             <mxPoint x="444.24" y="247.20399999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o6GdAM0iPMF-auH0SQ0D-22" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="450" y="200" as="sourcePoint" />
+            <mxPoint x="510" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
