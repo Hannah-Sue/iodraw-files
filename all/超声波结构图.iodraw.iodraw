@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o6GdAM0iPMF-auH0SQ0D-36" value="图像生成处理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="500" y="90" width="90" height="50" as="geometry" />
+          <mxGeometry x="490" y="90" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
