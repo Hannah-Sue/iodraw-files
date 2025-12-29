@@ -127,8 +127,8 @@
             <mxPoint x="570" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6GdAM0iPMF-auH0SQ0D-42" value="图像生成处理" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="570" y="100" width="90" height="50" as="geometry" />
+        <mxCell id="o6GdAM0iPMF-auH0SQ0D-42" value="AI模型调用" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="241" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
