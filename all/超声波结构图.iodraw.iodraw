@@ -115,6 +115,12 @@
         <mxCell id="o6GdAM0iPMF-auH0SQ0D-38" value="风格配置表" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="460" y="252" width="90" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="o6GdAM0iPMF-auH0SQ0D-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="170" as="sourcePoint" />
+            <mxPoint x="610" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
