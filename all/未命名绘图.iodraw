@@ -241,6 +241,12 @@
         <mxCell id="akhmSvCDBXnqessfi8A3-80" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;公&lt;/div&gt;&lt;div&gt;告&lt;/div&gt;&lt;div&gt;于&lt;/div&gt;&lt;div&gt;通&lt;/div&gt;&lt;div&gt;知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="390" width="30" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="akhmSvCDBXnqessfi8A3-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="akhmSvCDBXnqessfi8A3-81" target="akhmSvCDBXnqessfi8A3-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akhmSvCDBXnqessfi8A3-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="akhmSvCDBXnqessfi8A3-81" target="akhmSvCDBXnqessfi8A3-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="akhmSvCDBXnqessfi8A3-81" value="使&lt;div&gt;用&lt;/div&gt;&lt;div&gt;帮&lt;/div&gt;&lt;div&gt;助&lt;/div&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;教&lt;/div&gt;&lt;div&gt;程&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="390" width="30" height="130" as="geometry" />
         </mxCell>
