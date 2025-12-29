@@ -78,8 +78,8 @@
         </mxCell>
         <mxCell id="o6GdAM0iPMF-auH0SQ0D-1" value="Interface1, Interface2..." style="html=1;verticalAlign=bottom;labelBackgroundColor=none;startArrow=oval;startFill=0;startSize=8;endArrow=none;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-1" y="3" relative="1" as="geometry">
-            <mxPoint x="670" y="290" as="sourcePoint" />
-            <mxPoint x="830" y="290" as="targetPoint" />
+            <mxPoint x="490" y="150" as="sourcePoint" />
+            <mxPoint x="640" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
