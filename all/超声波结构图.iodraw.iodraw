@@ -16,7 +16,7 @@
             <mxPoint x="530" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6GdAM0iPMF-auH0SQ0D-14" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.356;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="o6GdAM0iPMF-auH0SQ0D-12">
+        <mxCell id="o6GdAM0iPMF-auH0SQ0D-14" value="登录请求" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.356;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="o6GdAM0iPMF-auH0SQ0D-12">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="246" y="250" as="sourcePoint" />
             <mxPoint x="344" y="140" as="targetPoint" />
